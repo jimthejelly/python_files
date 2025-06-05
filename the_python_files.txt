@@ -1,0 +1,66 @@
+***Characters***
+---------------------------------
+Mrs. Null - Widowed housekeeper/secretary of the business mogul Mr. Byte.
+            - Born lower-middle/lower class
+            - "Mr. Null" (Null is Mrs. Null's maiden name) was the architect of Mr. Byte's mansion
+                - Mr. Byte had him killed after construction so that no one else would know the secrets of the building
+                - "Mr. Null's" death was ruled a suicide, and only the Detective believed it was a murder
+                - Mrs. Null is hellbent on exposing Mr. Byte, no matter who else's secrets are also outed
+                    - She has been gathering blackmail on him through her work as his secretary
+                    - Coincidentally, she also has blackmail on a majority of the guests
+            - Invited the Detective to the mansion
+                - Mr. Byte received a death threat letter, prompting him to desire increased security
+                - Mrs. Null handled the hiring of security - the Detective
+                - She wrote all of the invitations herself, so who changed the time on the Detective's letter?
+                - Told the Detective that an opportunity to investigate the death of her husband
+Col. Kernel - Gung ho military man who was recently retired from active duty under strange circumstances.
+            - Dishonorably discharged due to his actions during Operation Echo. Keeps the nature of the discharge under wraps.
+                - The team had two options: a slower operation which would minimize collateral damage, or a full assault/strike that would impact civilians
+                - The team leader decided on the slower, more ethical operation. Col. Kernel disagreed, and a few other dissenters said they would follow him
+                - Came up with a plan for a full assault, relying on state-of-the-art weapons made by Dr. Queue and sponsored by Mr. Byte
+                    - Mr. Byte never returned his calls asking for a loan
+                - Couldn't fathom backing down from the plan that worked so well in his head, so contacted Dr. Queue for knockoff weapons
+                - The weapons caused so much damage to civilians and even his own team that he and his little band were dismissed from the military
+            - Still will not take any responsibility for his actions
+            - Constructed a delusion where he retired with honors and was always in the right
+                - Dr. Queue and Mr. Byte annoyingly remind him that his delusion isn't reality
+Mrs. Esther - The highly educated wife of Mr. Byte, famous on her own terms in the academic circles.
+            - Had her education sponsored by Mr. Byte's family. Grew up alongside him - marriage was arranged
+Miss Sudo - Young debutante under the mentorship of Mrs. Esther who is often seen at Mr. Byte's mansion.
+            - Comes from a similarly rich family as Mr. Byte
+                - Family gambled everything away and she fell into a hidden poverty
+                - Used to luxury and comfort, and will do anything to get back
+Dr. Queue - Eclectic scientist who some say is treading on dangerous territory with her experiments.
+            - Weapons designer on Mr. Byte's payroll
+                - Extremely innovative with the scale and power of the weapons she creates
+                - Requires extensive payment from her very rich clients
+                    - Previously worked for Miss Sudo's family, but has since dropped them as clients after their bankruptcy
+            -
+
+***Plotlines***
+---------------------------------
+1. Victim: Mrs. Esther - left the library after you sort-of/unwittingly threatened her
+    Culprit: Mr. Byte - Motivated by life insurance policy.
+    Culprit: Miss Sudo - Motivated by fear of Mrs. Esther finding out about the affair, killing Mr. Byte and inheriting everything.
+    Culprit: Mrs. Null -
+    Culprit: Dr. Queue -
+    Culprit: Col. Kernel -
+2. Victim: Miss Sudo - left the waiting room after telling you to give Mr. Byte a few minutes before entering his office
+    Culprit: Mr. Byte -
+    Culprit: Mrs. Esther -
+    Culprit: Mrs. Null -
+    Culprit: Dr. Queue -
+    Culprit: Col. Kernel -
+3. Victim: Mrs. Null - left the waiting room after you question her about her motives for bringing you here
+    Culprit: Mr. Byte - Finds out about her gathering blackmail or about her relationship to "Mr. Null" and decides it's easiest to just get rid of her
+    Culprit: Mrs. Esther
+    Culprit: Miss Sudo -
+    Culprit: Dr. Queue -
+    Culprit: Col. Kernel -
+4. Victim: Dr. Queue -
+5. Victim: Col. Kernel -
+    Culprit: Mr. Byte -
+    Culprit: Mrs. Esther -
+    Culprit: Miss Sudo -
+    Culprit: Mrs. Null -
+    Culprit: Dr. Queue - Motivated by fear that the colonel will expose her for supplying the knockoff weapons. Exacerbated by him threatening her.
